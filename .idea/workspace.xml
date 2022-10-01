@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62daa4f9-cf62-41af-96b7-c7516862addf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/components/about/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/components/product/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/components/products/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/components/productsList/ProductsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/pages/aboutUs/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/pages/contectsPage/ContactsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/pages/productsPage/ProductsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l2/my-app/my-app/src/pages/usersPage/UsersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/aboutPage/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/contactsPage/ContactsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/mainPage/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/mainPage/mainPage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/userPage/UserPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/userPage/userPage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/usersList/UsersList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/pages/formPage/FormPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/pages/mainPage/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/pages/usersPage/UsersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l7/my-app/src/components/menu/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l7/my-app/src/pages/countPage/CountPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l7/my-app/src/pages/portfolioPage/PortfolioPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../l7/my-app/src/pages/usersPage/UsersPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month2" beforeDir="false" afterPath="$PROJECT_DIR$/../../month2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../month3" beforeDir="false" afterPath="$PROJECT_DIR$/../../month3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FJqpCqCuPKoKARl9IJvmyhALiy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gulsara/Desktop/frontend/month4/l6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="l6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62daa4f9-cf62-41af-96b7-c7516862addf" name="Changes" comment="" />
+      <created>1664220714918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664220714918</updated>
+      <workItem from="1664220716101" duration="440000" />
+      <workItem from="1664366529256" duration="11890000" />
+      <workItem from="1664573829082" duration="5399000" />
+      <workItem from="1664632725195" duration="1530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
