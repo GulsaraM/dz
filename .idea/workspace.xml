@@ -19,10 +19,6 @@
       <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/mainPage/mainPage.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/userPage/UserPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../l3/my-app/src/pages/userPage/userPage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/usersList/UsersList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/pages/formPage/FormPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/pages/mainPage/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/pages/usersPage/UsersPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../l7/my-app/src/components/menu/Menu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../l7/my-app/src/pages/countPage/CountPage.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../l7/my-app/src/pages/portfolioPage/PortfolioPage.js" afterDir="false" />
@@ -30,6 +26,8 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../month2" beforeDir="false" afterPath="$PROJECT_DIR$/../../month2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../month3" beforeDir="false" afterPath="$PROJECT_DIR$/../../month3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,7 +102,7 @@
       <workItem from="1664220716101" duration="440000" />
       <workItem from="1664366529256" duration="11890000" />
       <workItem from="1664573829082" duration="5399000" />
-      <workItem from="1664632725195" duration="1530000" />
+      <workItem from="1664632725195" duration="2523000" />
     </task>
     <servers />
   </component>
